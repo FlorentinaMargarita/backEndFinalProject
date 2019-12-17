@@ -9,6 +9,10 @@
     "title": {
       "type": "string",
       "required": true
+    },
+    "poster_path": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
