@@ -12,7 +12,7 @@
     },
     "poster_path": {
       "type": "string",
-     "required": true
+      "required": true
     }
   },
   "validations": [],
