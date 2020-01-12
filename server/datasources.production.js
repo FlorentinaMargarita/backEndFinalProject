@@ -2,7 +2,8 @@ module.exports = {
 
     mongo: {
       url: process.env.DB_URL,
-      connector: "mongodb"
+      connector: "mongodb",
+      name: "mongo"
 
     }
 
